@@ -1,0 +1,9 @@
+{
+  "name": "coderitstorage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel proxy that fronts one shared Telegram bot so every CoderIT app user gets unlimited storage with zero setup.",
+  "dependencies": {
+    "busboy": "^1.6.0"
+  }
+}
